@@ -1,0 +1,8 @@
+@url=http://localhost:9000
+
+GET {{url}}/token
+
+###
+
+GET {{url}}/secret
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzODQ1OSwibmFtZSI6IkkgYW0gbm93IGluIHRoZSBwYXlsb2FkIiwiaWF0IjoxNjUyMDk3ODY4LCJleHAiOjE2NTIwOTk2Njh9.as7mIf_jo-hSDyEtGULmA3CFjzTQwkslkEmw6Dvggv0
